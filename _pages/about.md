@@ -18,8 +18,6 @@ latest_posts:
   enabled: false
 ---
 
-Aurelia (first name)  
-Tamò-Larrieux (second name)
 
 Aurelia Tamò-Larrieux is an incoming Full Professor at the University of St. Gallen leading the chair for Law & Technology and the Legal Design & Code Lab.
 
